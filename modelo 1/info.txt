@@ -1,8 +1,0 @@
-Template 1:
-
-Tema: claro
-Informações: apenas uma página
-Divisões: dividido em tabs dinâmicas
-Cor de destaque: laranja
-
-
