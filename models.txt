@@ -1,0 +1,18 @@
+modelo 1:
+    C1:
+        C1A - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados
+        C1B - Textos são apresentados com espaçamento mínimo de 1,5pt
+        C1C - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo
+    
+    C2:
+        C2A - O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo
+    
+    C3:
+        C3A - O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato
+        C3B - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações
+
+    C4:
+        C4A -  O template permite e/ou facilita a personalização, contendo o código fonte organizado
+
+    C5:
+        C5A - O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais
