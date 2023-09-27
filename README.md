@@ -56,3 +56,140 @@ _O template facilita a adaptação da estrutura e conteúdo para se adequar à n
 * `C5` - **Buscas**
 
 _O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais?_
+
+<br>
+
+# Classificação dos Templates #
+
+## Modelo 1 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais. |
+
+* `Classificação:` - **Adequeado**
+
+![modelo 1](https://github.com/malumsz/modelos_web/assets/88544598/b65d1ab9-4ad0-4c82-8209-83a6d769ec82)
+
+<br>
+
+## Modelo 2 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é parcialmente legível, contendo sobreposições ou desenhos exagerados, os quais impossibilitam a visualização com clareza da fonte. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo não são totalmente contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo porém pode apresentar dificuldades de visualização no geral. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template não permite a inclusão de recursos de busca. |
+
+* `Classificação:` - **Inadequeado**
+
+![modelo 2](https://github.com/malumsz/modelos_web/assets/88544598/2162e1b8-774c-4d0c-b4de-5e0e29386292)
+
+<br>
+
+## Modelo 3 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais. |
+
+* `Classificação:` - **Adequeado**
+
+![modelo 3](https://github.com/malumsz/modelos_web/assets/88544598/2a101553-7472-4c24-8607-d79eb02c2c36)
+
+<br>
+
+## Modelo 4 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais. |
+
+* `Classificação:` - **Adequeado**
+
+![modelo 4](https://github.com/malumsz/modelos_web/assets/88544598/dca1c3bb-3f58-4abd-80c8-94ff41f20d50)
+
+<br>
+
+## Modelo 5 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais. |
+
+* `Classificação:` - **Adequeado**
+
+![modelo 5](https://github.com/malumsz/modelos_web/assets/88544598/c0fab307-32d1-4325-8913-79066bb2a0da)
+
+<br>
+
+## Modelo 6 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais. |
+
+* `Classificação:` - **Adequeado**
+
+![modelo 6](https://github.com/malumsz/modelos_web/assets/88544598/8777dd19-9b15-4dd9-842c-fc8351672c4a)
+
+<br>
+
+## Modelo 7 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é parcialmente legível, contendo sobreposições ou desenhos exagerados, os quais impossibilitam a visualização com clareza da fonte. <br> `C1B` – Textos não são apresentados com espaçamento mínimo de 1,5pt, além de possuir uma fonte com tamanho de difícil visualização. <br> `C1C` - As cores de fundo/fonte/conteúdo não são totalmente contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo porém pode apresentar dificuldades de visualização no geral. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template não permite a inclusão de recursos de busca. |
+
+* `Classificação:` - **Inadequeado**
+
+![modelo 7](https://github.com/malumsz/modelos_web/assets/88544598/b64213c0-41d3-4989-b3f8-15ce7f9fcc1c)
+
+<br>
+
+## Modelo 8 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é legível, clara e evita sobreposições ou desenhos exagerados. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo são contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template favorece a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template permite a inclusão de recursos de busca para facilitar a localização de uma informação sobre a manipulação dos dados pessoais. |
+
+* `Classificação:` - **Adequeado**
+
+![modelo 8](https://github.com/malumsz/modelos_web/assets/88544598/656563f1-84e6-4d48-a4c0-f8035055a3ed)
+
+<br>
+
+## Modelo 9 ##
+ | Nome | Avaliação |
+| --- | --- |
+| `C1` - **Tipografia e Cores** | `C1A` - A fonte do protótipo é parcialmente legível, contendo sobreposições ou desenhos exagerados, os quais impossibilitam a visualização com clareza da fonte. <br> `C1B` – Textos são apresentados com espaçamento mínimo de 1,5pt. <br> `C1C` - As cores de fundo/fonte/conteúdo não são totalmente contrastantes e favoráveis para leitura dos usuários, sendo considerado de contraste positivo porém pode apresentar dificuldades de visualização no geral. |
+| `C2` - **Adequação para o uso de imagens e vídeos** | `C2A` – O template não favorece totalmente a inclusão de vídeos, imagens e infográficos dentro de seu conteúdo. |
+| `C3` – **Organização, acesso e percurso das informações** | `C3A` – O template apresenta estrutura de Menus, submenus que permitem organizar as informações de manipulação de dados pessoas de maneira lógica, por tipo ou por formato. <br> `C3B` - E levando em conta o item anterior, consequentemente permite criar uma sequência lógica de ações.|
+| `C4` – **Adaptação e personalização** | `C4A` – O template permite e/ou facilita a personalização, contendo o código fonte organizado. |
+| `C5` – **Buscas** |	`C5A` – O template não permite a inclusão de recursos de busca. |
+
+* `Classificação:` - **Inadequeado**
+
+![modelo 9](https://github.com/malumsz/modelos_web/assets/88544598/6af37012-7a35-4592-b898-30fbcfc6017f)
